@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  acorn:
+    specifier: ^8.8.2
+    version: 8.11.3
+
+packages:
+
+  /acorn@8.11.3:
+    resolution: {integrity: sha1-ceCxThOk7BYHJLOPt7DyM7G4HXo=, tarball: http://npm.zhenguanyu.com/acorn/download/acorn-8.11.3.tgz}
+    engines: {node: '>=0.4.0'}
+    hasBin: true
+    dev: false
